@@ -149,6 +149,11 @@ blockquote {
     position: relative;
 }
 
+form p {
+    display: flex;
+    margin-bottom: 1em;
+}
+
 @media screen and (max-width: 30rem) {
     header,
     main,
